@@ -1,0 +1,8 @@
+{
+  "nome": "Produto Exemplo",
+  "empresa": "Empresa Exemplo",
+  "descricao": "Este é um exemplo de descrição do produto.",
+  "quantidade": 100,
+  "marca": "Marca Exemplo",
+  "valor": 50.99
+}
